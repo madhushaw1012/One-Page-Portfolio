@@ -14,25 +14,49 @@ Computer Science Engineer in the making! As sweet as the name suggests 😊.
     {%- endif -%}
     <br />
 </div>
+<hr />
 
 # About Myself
-Show your ISC skills here.  
-Here's a little bit more [About Myself](/about/).
+An ameteur in learning about the technology that runs our lives and yearns to get better by attaining more with every passing day. 
+* Here's a little bit more [About Myself](/about/).
+<hr />
 
 ## Education Qualifications
-First College (with GPA) then Class 12 (specify stream) then Class 10 (specify year and percentages.)
+* #### **Kalyani Government Engineering College | 2019-2023**
+##### B. Tech - Department of Computer Science and Engineering 
+GPA: 8.69/10 (First Semester) 
+
+* #### **Maheshwari Girls' School, Kolkata | 2016-2018**
+##### Indian School Certificate - Computer Science 
+Aggregate Percentage: 94.75%
+
+* #### **Maheshwari Girls' School, Kolkata | 2012-2016**
+##### Indian Certificate of Secondary Education  
+Aggregate Percentage: 95.2%
+
+<hr />
 
 ## My Coursework
-Whatever you study here (mane college curriculam plus oisob java and all)
-
+* Engineering Mathematics
+* Basic Electrical
+* JAVA
+  
+<hr />
+  
 ## Building Myself On
-Your Skills Here
+Understanding versatility of JAVA, Python and C.
 
-## Projects that I have worked on
-Some projects (if any else delete)
+<hr />
 
 ## Awards and Co-Curriculars
-School life things (for you :p)
+* Secured highest marks in English, ICSE(2016).
+* Secured Highest marks in Physics, English, Computer(2017).
+* Secured highest marks in English, Computer in ISC(2018).
+
+<hr />
 
 ## My Interests
-Your Dance, Guitar and Drama (shob meye rai kore :3)
+* Dance
+* Music
+* Guitar
+* Drama
