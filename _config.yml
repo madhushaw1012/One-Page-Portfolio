@@ -2,8 +2,7 @@
 title: Madhu Shaw
 email: madhushaw101999@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  If Content is King, Design is Queen, then Development is the Kingdom. Without Kingdom, King and Queen are nothing!
-  And I can help build your Empire!
+  They say beauty and brain do not go together. I am here for them. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  madhushaw1012
@@ -15,7 +14,7 @@ social:
   github: madhushaw1012
   instagram: madhushaw78
   facebook: madhu.shaw.1447
-  linkedin: dipan29
+  linkedin: madhushaw12
 
 # Build settings
 theme: minima
