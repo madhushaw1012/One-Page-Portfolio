@@ -20,7 +20,11 @@ layout: default
     <div class="row">
       <div class="spacer col-33">
         {%- for post in posts -%}
-          <img src="{{ post.thumbnail }}" style="width:100%" />
+          {%- if post.thumbnail -%}
+            <img src="{{ post.thumbnail }}" style="width:100%" />
+          {%- else -%}
+            <img src="/assets/img/blog.jpg" style="width:100%" />
+          {%- endif -%}
         {%- endfor -%}
       </div>
 
