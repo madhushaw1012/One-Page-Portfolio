@@ -24,6 +24,8 @@ plugins:
   - jekyll-seo-tag
 port: 8080
 timezone: Asia/Kolkata
+show_excerpts: true
+show_thumbnails: true
 
 # Exclude from processing.
 # Excluded items can be processed by explicitly listing the directories or
