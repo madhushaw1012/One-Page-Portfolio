@@ -17,7 +17,7 @@ Computer Science Engineer in the making! As sweet as the name suggests 😊.
 <hr />
 
 # About Myself
-An ameteur in learning about the technology that runs our lives and yearns to get better by attaining more with every passing day. 
+An amateur in learning about the technology that runs our lives and yearns to get better by attaining more with every passing day. 
 * Here's a little bit more [About Myself](/about/).
 <hr />
 
@@ -43,8 +43,11 @@ Aggregate Percentage: 95.2%
   
 <hr />
   
-## Building Myself On
-Understanding versatility of JAVA, Python and C.
+## Working On
+Understanding versatility of 
+* JAVA
+* Python
+* C
 
 <hr />
 
@@ -59,4 +62,4 @@ Understanding versatility of JAVA, Python and C.
 * Dance
 * Music
 * Guitar
-* Drama
+* Cooking
